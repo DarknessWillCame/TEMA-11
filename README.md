@@ -30,8 +30,7 @@ for value in fib(200):
 ```
 
 ### Результат.
-
-![Результат задания 1](./Tema11_1.png)
+![Tema11_1](https://github.com/DarknessWillCame/TEMA-11/assets/46960566/7bc0d43c-a536-43d3-9c63-3c865aff2e89)
 
 ## Выводы
 
@@ -56,9 +55,10 @@ with open('./Tema11_2_fibonaci.txt', 'a') as file:
 ```
 
 ### Результат.
+![Tema11_2](https://github.com/DarknessWillCame/TEMA-11/assets/46960566/f49ffce4-8a57-49e6-a988-1dd41bba9803)
+![Tema11_2_png](https://github.com/DarknessWillCame/TEMA-11/assets/46960566/1b2561b8-f6a9-4807-b76d-f408b6452049)
 
-![Результат задания 1](./Tema11_2.png)
-![Результат задания 1](./Tema11_2_png.png)
+
 
 ## Выводы
 
